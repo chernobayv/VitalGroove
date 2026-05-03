@@ -82,6 +82,3 @@ python vitalgroove.py
 victoria chernobay — CV pipeline, state machine, UI, display rendering  
 stack — arduino integration, mechatronics, hardware
 
----
-
-[![Hack Club](https://img.shields.io/badge/hack%20club-%23ec3750?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMkw0IDZWMTJDNCAyMCAxMiAyMiAxMiAyMkMyMCAyMiAyMCAyMCAxNiAxMkgxMlYxMEgxNlY2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==)](https://hackclub.com)

@@ -27,7 +27,7 @@ VitalGroove runs on an NVIDIA Jetson Nano and uses a camera feed to detect when 
 3. triggers an arduino-controlled candy dispenser via serial
 4. saves the photo to an on-device album you can browse on screen
 
-the whole thing renders on an 800x480 display in a retro pixel art aesthetic — pink borders, animated hearts, clouds over sad faces, the works.
+the whole thing renders on an 800x480 display in a retro pixel art aesthetic: pink borders, animated hearts, clouds over sad faces, the works.
 
 ---
 
